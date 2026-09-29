@@ -209,4 +209,4 @@ The dashboard includes:
 **Odoh Ekenedirichukwu Johnpaul**  
 LinkedIn: [linkedin.com/in/kene08](https://linkedin.com/in/kene08)
 
-Select everything above (from the 🏥 title down to the LinkedIn line), copy it, and paste it into the GitHub editor in place of whatever is there now, then commit.
+
